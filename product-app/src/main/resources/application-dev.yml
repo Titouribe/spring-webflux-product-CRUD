@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      database: product_app
+      username: practice
+      password: practice
+
